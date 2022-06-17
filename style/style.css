@@ -39,7 +39,6 @@
  --fonte-android: 'android', sans-serif;
 }
 body{
-   
     background-color: var(--cor0);
     font-family:var(--fonte-padrao) ;
 }
@@ -169,7 +168,7 @@ main a:hover{
 img.fly{
     border: solid var(--cor5);
     border-radius: 50%;
-   max-height:50px;
+    max-height:50px;
     max-width:50px ;
     animation: fly2 2s alternate infinite;
     animation-timing-function: ease-in-out;
